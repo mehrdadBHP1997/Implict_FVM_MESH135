@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "IMPLICIT-FVM-MESH135", "IMPLICIT-FVM-MESH135\IMPLICIT-FVM-MESH135.vfproj", "{05AB5BB5-DEFB-48AB-B86B-B35C2DE7BADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05AB5BB5-DEFB-48AB-B86B-B35C2DE7BADC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{05AB5BB5-DEFB-48AB-B86B-B35C2DE7BADC}.Debug|Win32.Build.0 = Debug|Win32
+		{05AB5BB5-DEFB-48AB-B86B-B35C2DE7BADC}.Release|Win32.ActiveCfg = Release|Win32
+		{05AB5BB5-DEFB-48AB-B86B-B35C2DE7BADC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
